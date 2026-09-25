@@ -40,11 +40,33 @@ Remmeber choose the correct Python version that Visual Studio Code will use.
 
 ## Basic concepts
 
-- Package: As many project created with Python, we can use Package like *requests, pandas, numpy, openai, beatifulsoup4*. To install all of these, we use pip as our Python's package manager
+- Package: As many project created with Python, we can use Package like *requests, pandas, numpy, openai, beatifulsoup4*. To install all of these, we use pip as our Python's package manager.
+- snake_case: Standard way to name variables in Python using lowercase with underscores between words.
+- Comments: IN PYTHON WE CAN COMMENT USING # TO COMMENT ONLY ONE LINE AND TRIPLE QUOTES TO COMMENT MULTIPLE LINES.
+- Python as calculator: Python works literally like an calculator so we can write numbers with operators and get the answer
 
 ## Interative Python
 
 Dave show a package named ipykernel that run Python code in a interactive window that looks like a Jypiter Notebook. (It works with shift + enter)
+
+## Variables
+
+We save data into varibles. We can set a value and modify it. 
+```
+# Update a value in a variable
+number = 1
+number += 2
+print(number)  # number storage 3
+```
+
+## Data Types
+
+As other languages, we have diferent kinds of information in Python so lets remember all very quickly:
+
+1. Numbers: Can be integers (int) or floats (float). The main difference between both type of data is how are storage in memory.
+2. Strings: Those are chains of characters write inside quotes. Python doesn't care if are simple or double quotes.
+3. Booleans: Logical data that can be True o False.
+
 
 # REFERENCES
 
