@@ -39,7 +39,7 @@ Data types
 Packages
 Interactive Python
 
-[View Python notes](ia-with-python/1. python/NOTES.md)
+:closed_book: [View Python notes](https://github.com/UnalKami/ia-with-python/blob/24/Sep/1.%20python/NOTES.md)
 
 ### 2. AWS Resources
 ```
