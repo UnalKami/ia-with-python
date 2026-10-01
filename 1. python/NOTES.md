@@ -68,6 +68,50 @@ As other languages, we have diferent kinds of information in Python so lets reme
 3. Booleans: Logical data that can be True o False.
 
 
+## Operators
+We can operate our different data types. It can be mathematic, strings or logical operations:
+
+### Mathematic Operations
+|Operation|Simbol|
+|---|---|
+|Add|+|
+|Subtraction|-|
+|Multiplication|*|
+|Division|/|
+|Integer Division|//|
+|Exponentiation|**|
+
+### Strings Operations
+|Operation|Simbol|
+|---|---|
+|Concatenation|+|
+|Repetition|*|
+|Belonging|in|
+|Indexing|[]|
+|Slicing|[:]|
+|Length|len()|
+|Uppercase Letters|.upper()|
+|Lowercase Letters|.lower()|
+|Remove spaces|.strip()|
+|Replace|.replace()|
+|Split|.split()|
+|Join|.join()|
+|F-string|f'{}'|
+
+### Logical Operations
+|Operation|Simbol|
+|---|---|
+|Both statements are true|and|
+|One of the statements is true|or|
+|Reverses the result|not|
+|Greater than|>|
+|Less than|<|
+|Equal|==|
+|Different|!=|
+|Greater than or equal to|>=|
+|Less than or equal to|<=|
+
+
 # REFERENCES
 
 1. Python for AI - Full Beginner Course by Dave Ebbelaar: https://www.youtube.com/watch?v=ygXn5nV5qFc
